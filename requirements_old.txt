@@ -1,0 +1,30 @@
+certifi==2022.12.7
+charset-normalizer==2.1.1
+fst-pso==1.8.1
+FuzzyTM==2.0.5
+gensim==4.3.0
+idna==3.4
+JPype1==1.4.1
+konlpy==0.6.0
+lxml==4.9.2
+miniful==0.0.6
+numpy==1.24.1
+packaging==23.0
+pandas==1.5.2
+pyFUME==0.2.25
+python-dateutil==2.8.2
+pytz==2022.7
+requests==2.28.1
+scipy==1.10.0
+simpful==2.9.0
+six==1.16.0
+smart-open==6.3.0
+urllib3==1.26.14
+
+tensorflow 설시치 맥과 윈도우에서 분기가 생김
+이후부터는 여기서 수기로 pip list 기록
+
+mac: pip install tensorflow-macos
+window: pip install tensorflow
+
+common: pip install matplotlib
